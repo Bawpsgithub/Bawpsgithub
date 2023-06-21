@@ -27,11 +27,11 @@
 
 ### 👨‍💻: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
-- :telescope: I'm 4th student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 私はホーチミン市国立情報技術大学の4年生です。専攻は日本に特化した情報技術です！
+- :telescope: I'm 4th student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 
 
-- :seedling: You can contact me at ngohuylmht@gmail.com
+- :seedling: 私はホーチミン市国立情報技術大学の4年生です。専攻は日本に特化した情報技術です！
 
-- :zap: .
+- :zap: You can contact me at ngohuylmht@gmail.com 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngo-huy-a73232280/)
 
