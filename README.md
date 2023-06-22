@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjllOG52eWF1bzNnaTRjeGZuMHEyczA2cHA2MXQxYmUyMGpqa3NjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Up8PH67rCip6aXRnzv/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/C651LxvAZpMAAAAd/madara-naruto.gif" width="160"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/ngo-huy-a73232280/">
         <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
