@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/C651LxvAZpMAAAAd/madara-naruto.gif" width="160"/>
     <div id="badges">
-      <a href="https://www.linkedin.com/in/ngo-huy-a73232280/">
+      <a href="https://www.linkedin.com/in/bawps/">
         <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://www.instagram.com/_nhhuy_/">
