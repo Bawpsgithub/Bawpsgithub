@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/C651LxvAZpMAAAAd/madara-naruto.gif" width="160"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cdf2c99-75e7-4c5b-8e2e-746198f21981/dcnkqui-7c5a9706-dde1-4139-a747-2ffc4fe5b033.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjZGYyYzk5LTc1ZTctNGM1Yi04ZTJlLTc0NjE5OGYyMTk4MVwvZGNua3F1aS03YzVhOTcwNi1kZGUxLTQxMzktYTc0Ny0yZmZjNGZlNWIwMzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pQCnzj3T6DAxjASv5Sn9XA9rH2wj5vJXkLd3InXRXao" width="160"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/bawps/">
         <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
