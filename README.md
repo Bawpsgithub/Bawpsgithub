@@ -30,7 +30,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: You can contact me at ngohuylmht@gmail.com 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngo-huy-a73232280/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bawps/)
 
   ---
 
